@@ -1,0 +1,112 @@
+ul.top-menu {
+    height: 20px;
+    padding-left: 0px;
+}
+ul.top-menu li{
+    list-style: none;
+    float: left;
+}
+ul.top-menu li.active {
+    color: #3399FF;
+}
+.bg-blue {
+    background-color: #3399FF;
+}
+.inner-title {
+    padding: 5px 20px;
+    color: #fff;
+}
+.inner-content {
+    margin-left: 15px;
+}
+.download-part {
+    padding: 15px;
+    background-color: #eee;
+}
+.download-part .btn-download {
+    text-decoration: none;
+    background-color: #24C832;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+}
+.download-part .dowonload-content {
+    margin-top: 10px;
+}
+.download-part .left-title {
+    width: 100px;
+    float: left;
+}
+.mb-0 {
+    margin-bottom: 0px;
+}
+.mt-0 {
+    margin-top: 0px;
+}
+.mandatory {
+    color:#ff0000;
+}
+.inner-content .left-part {
+    width: 100px;
+    float: left;
+}
+.inner-content .right-part {
+    padding-left: 100px;
+    height: 50px;
+}
+.inner-content .right-part-1 {
+    padding-left: 100px;
+}
+.inner-content .right-part input {
+    height: 30px;
+    width: 100%
+}
+.inner-content textarea {
+    width : 100%;
+}
+.contact-us {
+    padding-right: 50px;
+}
+.btn-submit {
+    float: right;
+    background-color: #24C832;
+    padding: 10px 30px;
+    color: #fff;
+    font-size: 20px;
+}
+.home-test {
+    width: 1024px;
+    margin: auto;
+    position: relative;
+    display: flow-root;
+}
+.header-bar {
+    width: 1024px;
+    margin: auto;
+    color: #fff;
+    line-height: 30px;
+}
+.main-part {
+    width: 65%;
+    float: left;
+    margin-right: 5%;
+}
+.side-part {
+    width: 280px;
+    float: right;
+    background-color: #eee;
+    position: -webkit-sticky;
+    position: sticky;
+    right: 0;
+    top: 20px;
+}
+.side-part .side-content {
+    padding: 30px 30px;
+}
+.image-list div{
+    float: left;
+    padding: 10px 5px;
+}
